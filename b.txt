@@ -1,2 +1,4 @@
 b 수정
+master에서도 수정
 hotfix 브랜치에서 수정
+다시 hotfix 에서 수정
